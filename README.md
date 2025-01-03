@@ -24,5 +24,5 @@ This is a simple Pong game implemented in **C++** using the [Raylib](https://www
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/senza/pong-raylib.git
-   cd pong-raylib
+   git clone https://github.com/Senza/MasterPong.git
+   cd MasterPong
